@@ -1,6 +1,3 @@
-## Introduction
-
-Summary of my skills
 
 ## Technologies Used
 
@@ -27,11 +24,20 @@ Summary of my skills
 
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-- Debugging
-
+  
 ### API Management
 
 - Swagger
+
+### Web server
+
+- Weblogic
+- IBM Websphere
+
+### OS
+
+- Windows
+- Linux/ubuntu
 
 ### SDLC and Management
 
